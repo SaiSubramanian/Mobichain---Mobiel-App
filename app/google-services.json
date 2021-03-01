@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "257617852755",
+    "firebase_url": "https://mobichain-a5304.firebaseio.com",
+    "project_id": "mobichain-a5304",
+    "storage_bucket": "mobichain-a5304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257617852755:android:ee278ead08df7e0d",
+        "android_client_info": {
+          "package_name": "com.example.subramanianrvendorin.mobichain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257617852755-shtmskvdo4qv9j4qo3ga9hnethksakin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subramanianrvendorin.mobichain",
+            "certificate_hash": "aed6019602140209687f9f1e3531eba44eea19dc"
+          }
+        },
+        {
+          "client_id": "257617852755-ijncbnk08lnlgh5rcrd7egcn6nfohstr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyemQFOFnCEHh64W__giG1AzrC0CgY7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257617852755-ijncbnk08lnlgh5rcrd7egcn6nfohstr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257617852755:android:c1fbba0fe5afa834",
+        "android_client_info": {
+          "package_name": "com.mobichain.project.mobichain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257617852755-utv8r4csactc14ctlaqo1fborni9sl07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobichain.project.mobichain",
+            "certificate_hash": "8962144f2b99f0ff856dc83023782ff95bb869d3"
+          }
+        },
+        {
+          "client_id": "257617852755-ijncbnk08lnlgh5rcrd7egcn6nfohstr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyemQFOFnCEHh64W__giG1AzrC0CgY7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257617852755-ijncbnk08lnlgh5rcrd7egcn6nfohstr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
